@@ -59,7 +59,7 @@ public final class StudentController implements DefenderController
 				}
 			}
 
-			//actions[i]=possibleDirs.get(Game.rng.nextInt(possibleDirs.size()));
+			//actions[i]=possibleDirs.get(Game.rng.nextInt(possibleDirs.size()));}
 
 			else
 				actions[i] = -1;
